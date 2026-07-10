@@ -3,16 +3,22 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mrignaini Mudgal</h1>
-<h3 align="center">Computer Science Undergraduate • Full Stack Developer • AI/ML Enthusiast • Building Intelligent Applications</h3>
+
+<h3 align="center">
+Computer Science Undergraduate • Full Stack Developer • AI/ML Enthusiast • Building Intelligent Applications
+</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+  <a href="https://github.com/mudgalmrignaini8107-jsk">
+    <img src="https://komarev.com/ghpvc/?username=mudgalmrignaini8107-jsk&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=blue" />
+
+  <a href="https://github.com/mudgalmrignaini8107-jsk?tab=followers">
+    <img src="https://img.shields.io/github/followers/mudgalmrignaini8107-jsk?label=Followers&style=for-the-badge&color=blue" />
   </a>
 </p>
+
+---
 
 ## 💫 About Me
 
@@ -20,7 +26,7 @@
 
 💻 Passionate about AI, Full Stack Development and Backend Engineering
 
-🤖 Building intelligent applications using LLMs, RAG Pipelines and prompt engineering
+🤖 Building intelligent applications using LLMs, RAG Pipelines and Prompt Engineering
 
 🌱 Currently exploring
 
@@ -29,35 +35,69 @@
 - Cloud Deployment
 - System Design
 
+---
+
 ## 💻 Tech Stack
+
+<div align="center">
 
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,sql" />
 </p>
+
+</div>
+
+<div align="center">
 
 ### ⚙️ Backend & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,postgres" />
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,postgres" />
 </p>
+
+</div>
+
+<div align="center">
 
 ### ☁️ Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,gcp,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,gcp,vscode" />
 </p>
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://github.com/mudgalmrignaini8107-jsk"https://skillicons.dev/icons?i=github" /></a>
-<a href="https://www.linkedin.com/in/mrignayani-mudgal-aa5ab3392/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:mrignaini.work6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://leetcode.com/u/Mrignayani_8107-/"><img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"></a>
-<a href="https://www.kaggle.com/mrignainimudgal"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48"></a>
+<p>
+  <a href="https://github.com/mudgalmrignaini8107-jsk">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mrignayani-mudgal-aa5ab3392/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:mrignaini.work6@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://leetcode.com/u/Mrignayani_8107-/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48" />
+  </a>
+
+  <a href="https://www.kaggle.com/mrignainimudgal">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48" />
+  </a>
 </p>
+
+</div>
 
 ---
 
